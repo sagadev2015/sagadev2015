@@ -10,7 +10,7 @@
 
 ### Technologies
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=F90)
+![Next](https://img.shields.io/badge/next.js-000?&logo=nextdotjs&logoColor=F90)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
