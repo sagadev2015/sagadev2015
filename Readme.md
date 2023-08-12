@@ -10,12 +10,13 @@
 
 ### Technologies
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+(https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=F90)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
