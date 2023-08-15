@@ -24,15 +24,10 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Blockchain+Developer)](https://git.io/typing-svg)
-
 ## Skills
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS
 - 🔭 Backend : NodeJs, CI, Laravel, Django, Express, Nestjs, PHP
-- 📲 Mobile: Android, React Native, Ionic, Flutter
-- 🎮 Gaming: Unity 3D, Solidworks
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
-- ⚡ Blockchain: DEX, DAO, NFT, ERC20, ERC721, MetaVerse, Solidity
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go
 - 📫 Other : Machine Learning
 ## Tools
